@@ -1,0 +1,73 @@
+#+TITLE: What Does ‘Authorship’ Mean When a Model Can Generate Coherent Text?
+#+AUTHOR: Milos Rancic
+#+LANGUAGE: en
+#+OPTIONS: toc:nil num:nil
+* The Crisis of Authorship
+Artificial-intelligence systems now routinely generate coherent, stylistically distinct, and sometimes even moving texts. From academic abstracts to poetry, from essays to philosophical musings, machines can now imitate—and often surpass—the surface qualities of human writing.
+
+This development calls into question a foundational cultural assumption: that writing is a uniquely human act, rooted in intention, experience, and creative subjectivity.
+
+But authorship is not just about the production of language. It is a complex social function—one that ties meaning to a person, links expression to ownership, and makes language accountable. When a machine produces text, *what remains of that structure?*
+* A Brief History of Authorship
+The modern idea of authorship did not always exist. In oral cultures, stories belonged to no one and were passed down collectively. Even in early literate societies, many texts were anonymous or attributed to mythical figures.
+
+It was only with the rise of print, property rights, and modern individualism that the “Author”—as originator, owner, and legal entity—became central.
+
+Authorship, then, is not just a fact of writing. *It is a structural invention*: a way to bind speech to self, and self to social systems of recognition and responsibility.
+* What AI Writing Reveals
+Large-language models generate text that can seem deeply intentional.  They respond with nuance, replicate style, and adapt tone. Their outputs are often indistinguishable from those of human writers.
+
+And yet: *there is no one there.*
+
+No subject. No intention. No continuity of memory or worldview. The text emerges from training data and statistical prediction—not from experience, feeling, or position.
+
+So the core paradox emerges: *If the text makes sense, but no one meant it, is it still authored?*
+* Deconstructing the Author
+To understand what is at stake, we must unpack what “authorship” structurally involves:
+
+- *Intention* — Did someone mean to say this?
+- *Recognition* — Is someone socially acknowledged as the author?
+- *Ownership* — Who controls the rights, reproduction, and interpretation?
+- *Responsibility* — Who is accountable for its impact?
+
+AI undermines each layer:
+
+- There is no conscious intention.
+- Recognition is blurred (was this edited, co-written, prompted?).
+- Ownership is contested (human input vs. model training vs. platform).
+- Responsibility evaporates (who is to blame when a model hallucinates misinformation?).
+
+Authorship, under AI, becomes *porous and structurally unstable*.
+* Institutional and Emotional Responses
+Institutions have responded unevenly. Academic journals often ban AI as a listed author. Others allow co-authorship, provided a human “supervises.”
+
+These responses attempt to preserve authorship by reinforcing human oversight. But they also reveal discomfort—an anxiety about losing control over meaning.
+
+At the emotional level, reactions range from fascination to fear. Some celebrate the death of the Author as liberation. Others experience a quiet erosion of identity, especially in creative fields. If a machine can write like me—or better—*what am I?*
+* Toward Distributed Authorship
+Rather than resisting this shift, we might reframe it.
+
+Instead of asking *“Who wrote this?”*, we ask: *“What system of meaning produced this text?”*
+
+Every AI-generated text is the product of:
+
+- Human prompts and interactions
+- Training corpora filled with human knowledge
+- Model architectures designed by teams
+- Social contexts that shape what makes sense
+
+Authorship, then, is not singular. It is *distributed*: a networked event, not a private act.
+
+This does not eliminate human creativity. It re-situates it within *a larger ecology of symbolic production*.
+* Closing Reflection
+The question is no longer whether AI can be an author.
+
+The deeper challenge is this: *Can we let go of authorship as a site of certainty?*
+
+Can we live with meaning that has no single source? Can we take responsibility for texts that emerge through systems, not selves?
+
+This is not just a change in tools.  It is a shift in how we understand thought, language, and the social link between them.
+
+And it is just beginning.
+
+*End.*
