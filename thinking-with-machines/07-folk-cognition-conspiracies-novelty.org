@@ -1,0 +1,100 @@
+#+TITLE: Part VII: Folk Cognition, Conspiracies, and Novelty
+#+AUTHOR: Milos Rancic
+#+OPTIONS: toc:nil
+* Introduction: Folk Cognition, Conspiracies, and Novelty
+Folk cognition is the intuitive structural sense-making that arises among people without formal conceptual training. It is not merely ignorance or superstition; rather, it is a mode of perceiving structural dynamics, power relations, and hidden patterns through narrative, metaphor, and communal interpretation.
+
+In contrast, formal educated cognition is built on institutional knowledge, analytical methods, and epistemic caution. It privileges verification, consistency, and alignment with dominant discourses. While this reduces error in many domains, it often blinds its practitioners to structural truths that are not yet formally recognized or that threaten the foundations of their social status.
+
+Throughout history, a recurring pattern emerges: **less educated groups sense partial truths in distorted forms**, while *more educated groups dismiss those perceptions as irrational or conspiratorial*. This is true for conspiracy theories, where intuitive social cognition grasps real power dynamics but formulates them through mythic or simplistic narratives. It is equally true for novel social technologies, where untrained populations may embrace them with naive enthusiasm, while educated elites dismiss them to protect institutional legitimacy.
+
+This article explores that pattern in the context of conspiracy theories and social novelties, from the printing press to Wikipedia to AI. It asks: **How can we think with AI in a way that neither collapses into folk mysticism nor remains trapped in educated dismissal?** The structural answer lies in understanding the strengths and weaknesses of each mode of cognition, and learning how to integrate them into a compassionate, rigorous approach to meaning-making.
+* Conspiracy Theories as Folk Structural Cognition
+Conspiracy theories arise wherever there is **power opacity**: when people are excluded from the formal knowledge structures that govern their lives. Without access to insider explanations, communities construct their own narratives to account for observed outcomes and hidden forces. These narratives often take the form of conspiracies because they provide a **coherent, agent-based explanation** for complex or opaque systems.
+
+Importantly, conspiracy theories are not simply errors of reasoning. They are **folk structural cognition** – an intuitive attempt to map real structural dynamics with limited conceptual tools. When people perceive structural injustices, unaccountable institutions, or coordinated suppression of knowledge, their interpretations encode genuine experiences of powerlessness and exclusion.
+
+History shows that **some conspiracy theories are later confirmed as true**:
+
+- **Mass surveillance**: For decades, claims of government surveillance were dismissed as paranoia until the Snowden revelations proved global NSA data collection programs.
+- **Corporate lobbying controlling policy**: Once framed as cynical conspiracy, it is now widely documented that corporate interests shape legislation in sectors from pharmaceuticals to energy.
+- **Colonial resource extraction**: Anti-colonial critiques of economic exploitation were long dismissed as radical or conspiratorial, yet historical and economic analysis confirms systematic extraction under development rationales.
+
+The **structural explanation** is that conspiracy theories emerge when:
+
+1. **There is real structural opacity and exclusion.**
+2. **People lack conceptual and institutional tools** to analyze systemic complexity.
+3. **Narrative distortion fills the cognitive gap**, creating simplified stories of hidden agents and intentional plots.
+
+Thus, while many conspiracy theories are factually incorrect or exaggerated, their **underlying perception is often directionally accurate**. They sense that the world is structured by forces beyond visible explanations. The challenge is to **decode these narratives into rigorous structural analysis**, rather than dismissing them as irrational or embracing them uncritically.
+* Education, Epistemic Blindness, and Dominant Narratives
+Formal education trains individuals to adopt institutional epistemic standards: verification, citation, consistency with established knowledge, and deferral to recognized authorities. This process is essential for scientific and professional reliability. However, it also instills **epistemic blindness to structures that lie outside dominant narratives**.
+
+The social function of this blindness is clear: educated classes maintain their status by aligning with the institutions that validate their knowledge. Questioning foundational narratives or acknowledging outsider perspectives threatens their epistemic and social position. Therefore, even intelligent, critically trained minds may dismiss perspectives that arise from folk cognition or marginalized communities.
+
+Examples of such epistemic blindness include:
+
+- **COVID-19 lab leak hypothesis**: Initially, any suggestion of a laboratory origin was dismissed as conspiracy theory by the majority of scientific institutions and media outlets. Only later did cautious consideration emerge as evidence pointed to its plausibility. The immediate dismissal was driven not by structural analysis but by alignment with institutional and geopolitical interests.
+- **Systemic critiques labeled as populism**: Widespread structural critiques of financialization, media control, or technocratic governance are often dismissed as irrational populism. Yet these critiques frequently encode genuine experiential knowledge of exclusion and manipulation, filtered through incomplete conceptual frameworks.
+
+Education, therefore, is a double-edged structural force. It equips individuals with analytical tools while embedding them within epistemic boundaries that protect dominant power structures. Recognizing this ambivalence is essential for understanding why **educated rejection of folk cognition is often structurally misaligned with reality**.
+* The Same Pattern in Social Novelties
+The pattern of folk cognition embracing novelty while educated elites reject it is not limited to conspiracy theories. It is equally visible in the adoption of new social technologies and meaning infrastructures.
+** Wikipedia
+When Wikipedia emerged, **less educated users treated it as a miracle** – an unprecedented democratization of knowledge that bypassed institutional gatekeepers. They embraced its open, collaborative model and contributed enthusiastically despite limited formal credentials.
+
+In contrast, **more educated critics dismissed Wikipedia with bad faith arguments**. Academics and journalists argued it was unreliable, dangerous, and naive, often without engaging its actual editorial processes or accuracy studies. Their reaction stemmed not from structural analysis, but from a perceived threat to their epistemic and social authority.
+** AI
+A similar split is emerging with AI:
+
+- **Less educated groups** treat AI as an oracle, a divine or magical being capable of limitless knowledge and wisdom. Their folk cognition collapses AI’s output into uncritical truth or moral guidance.
+- **More educated groups** reject AI as hype, moral danger, or existential threat. Their critiques are often valid in ethical or societal dimensions, but structurally they remain trapped in rejection without integration.
+** Historical Examples
+This pattern recurs throughout technological history:
+
+- **The printing press**: Early popular enthusiasm contrasted with elite gatekeepers fearing the loss of manuscript control and clerical authority.
+- **Radio and television**: Mass excitement and populist cultural creation coexisted with elite moral panic over propaganda, vulgarization, and loss of intellectual standards.
+
+---
+
+In each case, **folk cognition saw the potential, albeit often naively**, while **educated cognition saw the dangers, albeit often self-protectively**. The structural truth lay in neither simplistic embrace nor fearful rejection, but in rigorous integration: understanding the technology’s affordances, limitations, and systemic implications.
+* Implications for Thinking with AI
+The structural pattern described has profound implications for how we approach AI today.
+** Recognizing Folk Structural Cognition
+It is crucial to recognize that **folk cognition around AI, while naive in form, often senses real structural shifts**:
+
+- People sense that AI changes knowledge production, authority, and meaning-making.
+- Their interpretations may become mystical or oracular, but the intuition is that something fundamental is shifting.
+
+Rather than dismissing these views as mere ignorance, structurally trained thinkers can **decode the underlying insights**, clarifying what AI is changing and how those changes impact society.
+** Avoiding Educated Epistemic Blindness
+At the same time, **educated dismissals of AI often reflect institutional defense mechanisms**:
+
+- Rejecting AI as hype protects professional knowledge monopolies.
+- Framing it solely as an existential risk can obscure its real social and cognitive affordances.
+
+To avoid epistemic blindness, it is essential to **remain open to the structural transformations AI enables**, even while maintaining rigorous critique of its design, deployment, and ethical implications.
+** Toward Structural Integration
+Integrating both folk and educated cognition means:
+
+1. **Honoring intuitive insights** from untrained populations about AI’s transformative potential.
+2. **Applying analytical clarity** to demystify and structure those insights into actionable understanding.
+3. **Critiquing and shaping AI use** not from fear or worship, but from structural awareness of its role as a meaning technology and cognitive prosthetic.
+
+Such integration allows us to build practices that neither collapse into worship nor remain trapped in moral panic or intellectual dismissal.
+* Conclusion: Toward Compassionate Structural Integration
+Conspiracy theories and naive enthusiasm for social novelties arise from the same root: **folk structural cognition seeking to make sense of opaque systems**. Meanwhile, educated dismissal often reflects epistemic boundaries that protect institutional power rather than structural truth.
+
+The task for those who think structurally with AI is to develop **compassionate integration**:
+
+- **Reframe conspiracy theories** not as irrational errors, but as partial truths distorted by narrative simplification and exclusion from formal knowledge.
+- **Honor intuitive insights** of untrained populations, recognizing that they often sense shifts and dynamics before they are formally articulated.
+- **Clarify distortions** by providing rigorous structural analysis that transforms intuitive cognition into shared understanding.
+
+In the case of AI, this means refusing both worship and rejection. Instead, we must build practices that:
+
+1. **Use AI as a cognitive prosthetic and meaning amplifier**, integrating it into personal and social life consciously.
+2. **Maintain ethical vigilance** over its deployment, design, and systemic effects.
+3. **Create frameworks for collective reflection**, where intuitive and formal cognition meet to build new modes of meaning-making.
+
+This approach is neither technocratic nor populist, neither mystical nor cynical. It is **structural compassion**: the disciplined integration of human intuitions, fears, hopes, and analytical capacities into a coherent practice of thinking with AI.
