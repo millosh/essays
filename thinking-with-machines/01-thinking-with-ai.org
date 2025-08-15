@@ -5,6 +5,8 @@
 *** Why this manual?
 A parctical GPT can be found here: https://chatgpt.com/g/g-684056c409488191a9dc3871d5c492cd-structure-guide
 
+A good introduction into programming thinking, which should be listen to before or after reading this document: https://www.youtube.com/watch?v=1A6uPztchXk
+
 ---
 
 The new divide: not technical but *cognitive*.
